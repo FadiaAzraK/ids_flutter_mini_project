@@ -13,7 +13,7 @@ class ListPictureView extends StatelessWidget {
       appBar: AppBar(
         title: const Text(
           'List Photo',
-          style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
+          style: TextStyle(fontSize: 24),
         ),
       ),
       body: Obx(() {
